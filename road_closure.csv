@@ -1,0 +1,40 @@
+Road Closure ID,TIME_ENTERED,LATITUDE,LONGITUDE,ROADWAY_NAME,TXDOT_ROADWAY_DIRECTION,TXDOT_RC_STATUS,LOCATION_DESCRIPTION,LANES_BLOCKED,CLOSURE_DURATION,CLOSURE_BEGIN_DATE,CLOSURE_END_DATE,CLOSURE_DESCRIPTION
+146350,8/27/2017 1:46,29.9826,-95.2772,IH-69 Eastex Freeway,Southbound,Reopened,IH-69 Eastex Freeway Southbound At WILL CLAYTON PARKWAY to BELTWAY 8-NORTH,3 Frontage Lane(s),Unknown,8/27/2017 9:00,8/27/2017 15:00,High Water
+146351,8/27/2017 1:46,29.9404,-95.2958,IH-69 Eastex Freeway,Northbound,Reopened,IH-69 Eastex Freeway Northbound At BELTWAY 8-NORTH to WILL CLAYTON PARKWAY,3 Frontage Lane(s),Unknown,8/27/2017 9:00,8/27/2017 15:00,High Water
+146352,8/27/2017 2:00,29.7844,-95.5629,WEST SAM HOUSTON TOLLWAY,Southbound,Reopened,WEST SAM HOUSTON TOLLWAY Southbound At IH-10 KATY ,All Mainlanes,Unknown,8/27/2017 9:00,8/27/2017 15:00,High Water
+146365,8/27/2017 23:17,29.9364,-95.6498,US-290 NORTHWEST,Eastbound,Reopened,US-290 NORTHWEST Eastbound At TELGE RD to ELDRIDGE PARKWAY,2 Mainlanes,Unknown,8/27/2017 9:00,8/27/2017 15:00,High Water
+146366,8/27/2017 23:18,29.9031,-95.6026,US-290 NORTHWEST,Westbound,Reopened,US-290 NORTHWEST Westbound At ELDRIDGE PARKWAY to TELGE RD,2 Mainlanes,Unknown,8/27/2017 9:00,8/27/2017 15:00,High Water
+146353,8/27/2017 2:13,29.7047,-95.5571,WEST SAM HOUSTON TOLLWAY,Northbound,Reopened,WEST SAM HOUSTON TOLLWAY Northbound At BELLAIRE BLVD , ,Unknown,8/27/2017 21:00,8/28/2017 5:00,High Water
+146369,8/28/2017 4:23,29.73405,-95.37128,IH-69 SOUTHWEST,Northbound,Reopened,IH-69 SOUTHWEST Northbound At SH-288 ,All Mainlanes,Unknown,8/28/2017 4:19,8/28/2017 15:00,High Water
+146370,8/28/2017 7:46,29.9531,-95.6735,US-290 NORTHWEST,Eastbound,Reopened,US-290 NORTHWEST Eastbound At BARKER CYPRESS RD to CYPRESS ROSE HILL/FRY RD,All Mainlanes,Unknown,8/28/2017 7:45,8/28/2017 15:00,High Water
+146371,8/28/2017 8:02,29.72789,-95.33644,IH-45 GULF,Northbound,Reopened,IH-45 GULF Northbound At LOCKWOOD/ ELGIN to W DALLAS ST,All Mainlanes,Unknown,8/28/2017 8:00,8/28/2017 15:00,High Water
+146372,8/28/2017 11:34,29.8909,-95.3183,IH-69 Eastex Freeway,Southbound,Reopened,IH-69 Eastex Freeway Southbound At MT HOUSTON RD to PARKER RD,"3 Frontage Lane(s), Frontage Road U-turn",Unknown,8/28/2017 9:00,8/28/2017 15:00,High Water
+146373,8/28/2017 11:34,29.8594,-95.3337,IH-69 Eastex Freeway,Northbound,Reopened,IH-69 Eastex Freeway Northbound At PARKER RD to MT HOUSTON RD,"3 Frontage Lane(s), Frontage Road U-turn",Unknown,8/28/2017 9:00,8/28/2017 15:00,High Water
+146374,8/28/2017 11:35,29.9108,-95.3098,IH-69 Eastex Freeway,Northbound,Reopened,IH-69 Eastex Freeway Northbound At LAUDER RD to HOMESTEAD RD,"3 Frontage Lane(s), Frontage Road U-turn",Unknown,8/28/2017 9:00,8/28/2017 15:00,High Water
+146375,8/28/2017 11:36,29.9242,-95.3026,IH-69 Eastex Freeway,Southbound,Reopened,IH-69 Eastex Freeway Southbound At HOMESTEAD RD to LAUDER RD,"3 Frontage Lane(s), Frontage Road U-turn",Unknown,8/28/2017 9:00,8/28/2017 15:00,High Water
+146384,8/28/2017 21:12,29.60503,-95.47413,SOUTH SAM HOUSTON TOLLWAY,Eastbound,Reopened,SOUTH SAM HOUSTON TOLLWAY Eastbound At FUQUA ,All Mainlanes,Continuous,8/28/2017 21:00,8/30/2017 15:00,High Water
+146433,8/29/2017 14:10,29.737,-95.5575,WEST SAM HOUSTON TOLLWAY,Northbound,Reopened,WEST SAM HOUSTON TOLLWAY Northbound At FM-1093 WESTHEIMER RD ,All Mainlanes,Unknown,8/29/2017 9:00,8/29/2017 15:00,High Water
+146448,8/30/2017 7:45,29.60024,-95.26627,SOUTH SAM HOUSTON TOLLWAY,Westbound,Reopened,SOUTH SAM HOUSTON TOLLWAY Westbound At PEARLAND PARKWAY ,Exit Ramp,Continuous,8/30/2017 9:00,9/4/2017 15:00,"High Water, Other"
+146449,8/30/2017 7:46,29.6007,-95.2986,SOUTH SAM HOUSTON TOLLWAY,Westbound,Reopened,SOUTH SAM HOUSTON TOLLWAY Westbound At SH 35/TELEPHONE ,Exit Ramp,Continuous,8/30/2017 9:00,9/4/2017 15:00,"High Water, Other"
+146450,8/30/2017 7:48,29.6003,-95.31775,SOUTH SAM HOUSTON TOLLWAY,Westbound,Reopened,SOUTH SAM HOUSTON TOLLWAY Westbound At WAYSIDE ,Exit Ramp,Continuous,8/30/2017 9:00,9/4/2017 15:00,"High Water, Other"
+146451,8/30/2017 7:51,29.599,-95.3535,SOUTH SAM HOUSTON TOLLWAY,Westbound,Reopened,SOUTH SAM HOUSTON TOLLWAY Westbound At FM-865 CULLEN BLVD ,Exit Ramp,Continuous,8/30/2017 9:00,9/4/2017 15:00,High Water
+146452,8/30/2017 7:52,29.5976,-95.3865,SOUTH SAM HOUSTON TOLLWAY,Westbound,Reopened,SOUTH SAM HOUSTON TOLLWAY Westbound At SH-288 ,Exit Ramp,Continuous,8/30/2017 9:00,9/4/2017 15:00,High Water
+146456,8/30/2017 9:23,29.74448,-95.36276,IH-69 Eastex Freeway,Southbound,Reopened,IH-69 Eastex Freeway Southbound At IH-45 GULF ,All Mainlanes,Unknown,8/30/2017 9:00,8/30/2017 15:00,"High Water, Other"
+146434,8/29/2017 14:11,29.7844,-95.5629,WEST SAM HOUSTON TOLLWAY,Southbound,Reopened,WEST SAM HOUSTON TOLLWAY Southbound At IH-10 KATY ,All Mainlanes,Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146459,8/31/2017 9:39,29.7477,-95.5577,BELTWAY 8-WEST,Northbound,Reopened,BELTWAY 8-WEST Northbound After BRIAR FOREST DR ,3 Frontage Lane(s),Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146461,8/31/2017 13:15,29.600292,-95.317695,BELTWAY 8-SOUTH,Eastbound,Reopened,BELTWAY 8-SOUTH Eastbound At S. Wayside Dr to BLACKHAWK,3 Frontage Lane(s),Continuous,8/31/2017 9:00,8/31/2017 15:00,High Water
+146462,8/31/2017 13:16,29.600665,-95.247657,BELTWAY 8-SOUTH,Westbound,Reopened,BELTWAY 8-SOUTH Westbound At BLACKHAWK to S. Wayside Dr,3 Frontage Lane(s),Continuous,8/31/2017 9:00,8/31/2017 15:00,High Water
+146467,8/31/2017 17:14,29.83598,-95.64569,SH-6,Southbound,Reopened,SH-6 Southbound At CLAY RD to IH-10 KATY,All Mainlanes,Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146468,8/31/2017 17:17,29.78502,-95.64467,SH-6,Northbound,Reopened,SH-6 Northbound At IH-10 KATY to CLAY RD,All Mainlanes,Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146481,8/31/2017 19:59,29.8843,-95.0632,US-90,Eastbound,Reopened,US-90 Eastbound Between FM 2100/OLD BEAUMONT HWY to CEDAR BAYOU/HARRIS-LIBERTY COUNTY LINE, ,Unknown,8/31/2017 9:00,8/31/2017 15:00,"High Water, Other"
+146485,8/31/2017 21:04,29.904441,-95.758593,SH-99 GRAND PARKWAY - West,Northbound,Reopened,SH-99 GRAND PARKWAY - West Northbound At West Rd ,3 Frontage Lane(s),Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146486,8/31/2017 21:06,29.904441,-95.758593,SH-99 GRAND PARKWAY - West,Southbound,Reopened,SH-99 GRAND PARKWAY - West Southbound At West Rd ,3 Frontage Lane(s),Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146487,8/31/2017 21:10,29.77199,-95.19508,IH-10 EAST,Westbound,Reopened,IH-10 EAST Westbound At Westmont/Greens Bayou ,Frontage Road U-turn,Unknown,8/31/2017 9:00,8/31/2017 15:00,High Water
+146498,9/1/2017 14:03,29.72941,-95.64405,SH-6,Northbound,Reopened,SH-6 Northbound At RICHMOND to MEMORIAL DR,"1 Mainlane, Right Shoulder",Continuous,9/1/2017 9:00,9/1/2017 15:00,High Water
+146499,9/1/2017 14:03,29.77538,-95.64409,SH-6,Southbound,Reopened,SH-6 Southbound At MEMORIAL DR to RICHMOND,All Mainlanes,Continuous,9/1/2017 9:00,9/1/2017 15:00,High Water
+146500,9/1/2017 14:17,30.0181,-95.2624,IH-69 Eastex Freeway,Southbound,Reopened,IH-69 Eastex Freeway Southbound At TOWNSEN ,3 Frontage Lane(s),Unknown,9/1/2017 9:00,9/1/2017 15:00,High Water
+146501,9/1/2017 15:28,29.8753,-95.757253,SH-99 GRAND PARKWAY - West,Northbound,Reopened,SH-99 GRAND PARKWAY - West Northbound At FM 529/Freeman Rd ,3 Frontage Lane(s),Unknown,9/1/2017 9:00,9/1/2017 15:00,High Water
+146502,9/1/2017 15:28,29.8753,-95.757253,SH-99 GRAND PARKWAY - West,Southbound,Reopened,SH-99 GRAND PARKWAY - West Southbound At FM 529/Freeman Rd ,3 Frontage Lane(s),Unknown,9/1/2017 9:00,9/1/2017 15:00,High Water
+146503,9/1/2017 16:29,29.600534,-95.298586,BELTWAY 8-SOUTH,Westbound,Reopened,BELTWAY 8-SOUTH Westbound At MYKAWA ,Frontage Road U-turn,Unknown,9/1/2017 9:00,9/1/2017 15:00,High Water
+146504,9/1/2017 17:01,29.7925,-95.0799,IH-10 EAST,Eastbound,Reopened,IH-10 EAST Eastbound At MONMOUTH DR ,Exit Ramp,Unknown,9/1/2017 9:00,9/1/2017 15:00,High Water
+146505,9/1/2017 17:01,29.7925,-95.0799,IH-10 EAST,Westbound,Currently Closed,IH-10 EAST Westbound At MONMOUTH DR ,Frontage Road U-turn,Unknown,9/1/2017 9:00,9/1/2017 15:00,High Water
